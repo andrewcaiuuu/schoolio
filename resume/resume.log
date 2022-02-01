@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.21)  28 JAN 2022 02:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.21)  31 JAN 2022 15:53
 entering extended mode
-**c:/Users/caian/Desktop/resume/resume.tex
-(c:/Users/caian/Desktop/resume/resume.tex
+**c:/Users/caian/Desktop/schoolio/resume/resume.tex
+(c:/Users/caian/Desktop/schoolio/resume/resume.tex
 LaTeX2e <2021-11-15>
 L3 programming layer <2021-11-12> (C:\Users\caian\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -89,7 +89,7 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 73--74
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 97--98
+Overfull \hbox (6.0pt too wide) in paragraph at lines 98--99
 [][][][][][][]  
  []
 
@@ -98,14 +98,14 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 97--98
 {C:/Users/caian/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (resume.aux) ) 
 Here is how much of TeX's memory you used:
  1024 strings out of 478699
- 16728 string characters out of 2846961
+ 16791 string characters out of 2846961
  324355 words of memory out of 3000000
  19159 multiletter control sequences out of 15000+600000
  408384 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 32i,7n,38p,399b,203s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,7n,38p,408b,203s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\caian\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/caian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/caian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/caian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/caian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on resume.pdf (1 page, 78680 bytes).
+Output written on resume.pdf (1 page, 78900 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
