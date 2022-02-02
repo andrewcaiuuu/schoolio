@@ -4,7 +4,7 @@
 \usepackage[empty]{fullpage}
 \usepackage{graphicx}
 \usepackage{float}
-\graphicspath{ {C:/Users/caian/Pictures/3100hw1/} }
+\graphicspath{ {../} }
 
 \begin{document}
 
@@ -15,8 +15,8 @@
   represents that amount of times the student took ECE 3100
   to get an A+. 
 
-  \item $n$ is the event that you get an A+ by the $n$th try.
-  \item $\infty$ is the event that you continue taking 
+  \item $E = \{n\}$ is the event that you get an A+ by the $n$th try.
+  \item $E = \infty$ is the event that you continue taking 
   ECE 3100 forever. 
 \end{enumerate}
 \section{Constructing a sample space}
@@ -24,7 +24,7 @@
   \item A good sample space is the unit square,
   $\Omega = \{(x,y) | 0 \leq x \leq 1, 0 \leq y \leq 1 \}$
   \item The event is a portion of the unit square, \newline
-  $\Omega = \{(x,y)||x|+|y| \leq a, 0 \leq x \leq 1, 0 \leq y \leq 1\}$
+  $E = \{(x,y)||x|+|y| \leq a, 0 \leq x \leq 1, 0 \leq y \leq 1\}$
 \end{enumerate}
 \section{Events and set operations}
 \begin{itemize}
@@ -91,10 +91,7 @@
   \item   \begin{figure}[H]
     \includegraphics{c}
     \end{figure}
-  $(A\cup B\cup C) \cap (A\cap B\cap C)\textsuperscript{c} 
-  \cap (A\cap B)\textsuperscript{c} \cap 
-  (A\cap C)\textsuperscript{c} \cap 
-  (B\cap C)\textsuperscript{c}$
+  $((A\cap B) \cup (A\cap C) \cup (B\cap C))\textsuperscript{c}$
   \item \begin{figure}[H]
     \includegraphics{d}
     \end{figure}
@@ -103,6 +100,17 @@
     \includegraphics{e}
     \end{figure}
   $A \cap B \cap C$
+  \item \begin{figure}[H]
+    \includegraphics{f}
+    \end{figure}
+    $(A\cup B\cup C) \cap (A\cap B\cap C)\textsuperscript{c} 
+    \cap (A\cap B)\textsuperscript{c} \cap 
+    (A\cap C)\textsuperscript{c} \cap 
+    (B\cap C)\textsuperscript{c}$
+  \item \begin{figure}[H]
+    \includegraphics{g}
+    \end{figure}
+    $A \cup (A \textsuperscript{c} \cap B \textsuperscript{c})$
 \end{enumerate}
 
 \end{document}
