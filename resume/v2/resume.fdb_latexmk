@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1643788284 "c:/Users/caian/Desktop/schoolio/resume/v2/resume.tex" "resume.pdf" "resume" 1643788285
+["pdflatex"] 1643871005 "c:/Users/caian/Desktop/schoolio/resume/v2/resume.tex" "resume.pdf" "resume" 1643871006
   "C:/Users/caian/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk" 1643337495 12668 55e425d2f6bf13c9f8ff053324816c7f ""
   "C:/Users/caian/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1637524821 9767274 f3633faca79e5ccf8c019552043262f9 ""
   "C:/Users/caian/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1643431894 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
@@ -30,10 +30,10 @@
   "C:/Users/caian/AppData/Local/Programs/MiKTeX/tex/latex/graphics/color.sty" 1636824463 7202 2086d39847c85b4b6fb051160304eaa9 ""
   "C:/Users/caian/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1634573416 29971 6c47712bf4bc87d15b2ca318615f75a3 ""
   "C:/Users/caian/AppData/Local/Programs/MiKTeX/tex/latex/preprint/fullpage.sty" 1369145273 2867 05b418f78b224ec872f5b11081138605 ""
-  "c:/Users/caian/Desktop/schoolio/resume/v2/resume.tex" 1643788282 4865 d76db2d3945bce6896d09961a9d21c9f ""
-  "resume.aux" 1643788285 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "resume.tex" 1643788282 4865 d76db2d3945bce6896d09961a9d21c9f ""
+  "c:/Users/caian/Desktop/schoolio/resume/v2/resume.tex" 1643871004 4918 aed16cd74a9d4712036b3b01924587a1 ""
+  "resume.aux" 1643871005 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "resume.tex" 1643871004 4918 aed16cd74a9d4712036b3b01924587a1 ""
   (generated)
   "resume.aux"
-  "resume.pdf"
   "resume.log"
+  "resume.pdf"
