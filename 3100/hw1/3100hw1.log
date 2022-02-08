@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.22)  3 FEB 2022 12:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.21)  8 FEB 2022 13:08
 entering extended mode
 **c:/Users/caian/Desktop/schoolio/3100/hw1/3100hw1.tex
 (c:/Users/caian/Desktop/schoolio/3100/hw1/3100hw1.tex
@@ -123,51 +123,51 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
  (C:\Users\caian\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<..//a.png, id=1, 172.2435pt x 166.221pt>
-File: ..//a.png Graphic file (type png)
-<use ..//a.png>
-Package pdftex.def Info: ..//a.png  used on input line 84.
+<a.png, id=1, 172.2435pt x 166.221pt>
+File: a.png Graphic file (type png)
+<use a.png>
+Package pdftex.def Info: a.png  used on input line 84.
 (pdftex.def)             Requested size: 172.24307pt x 166.22057pt.
  [1
 
 {C:/Users/caian/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-<..//b.png, id=16, 171.64125pt x 157.7895pt>
-File: ..//b.png Graphic file (type png)
-<use ..//b.png>
-Package pdftex.def Info: ..//b.png  used on input line 89.
+<b.png, id=16, 171.64125pt x 157.7895pt>
+File: b.png Graphic file (type png)
+<use b.png>
+Package pdftex.def Info: b.png  used on input line 89.
 (pdftex.def)             Requested size: 171.64081pt x 157.78911pt.
-<..//c.png, id=17, 168.63pt x 162.6075pt>
-File: ..//c.png Graphic file (type png)
-<use ..//c.png>
-Package pdftex.def Info: ..//c.png  used on input line 93.
+<c.png, id=17, 168.63pt x 162.6075pt>
+File: c.png Graphic file (type png)
+<use c.png>
+Package pdftex.def Info: c.png  used on input line 93.
 (pdftex.def)             Requested size: 168.62958pt x 162.6071pt.
-<..//d.png, id=18, 174.6525pt x 163.812pt>
-File: ..//d.png Graphic file (type png)
-<use ..//d.png>
-Package pdftex.def Info: ..//d.png  used on input line 97.
+<d.png, id=18, 174.6525pt x 163.812pt>
+File: d.png Graphic file (type png)
+<use d.png>
+Package pdftex.def Info: d.png  used on input line 97.
 (pdftex.def)             Requested size: 174.65207pt x 163.81158pt.
- [2 <..//a.png> <..//b.png> <..//c.png>]
-<..//e.png, id=25, 172.84575pt x 152.36925pt>
-File: ..//e.png Graphic file (type png)
-<use ..//e.png>
-Package pdftex.def Info: ..//e.png  used on input line 101.
+ [2 <./a.png> <./b.png> <./c.png>]
+<e.png, id=25, 172.84575pt x 152.36925pt>
+File: e.png Graphic file (type png)
+<use e.png>
+Package pdftex.def Info: e.png  used on input line 101.
 (pdftex.def)             Requested size: 172.8453pt x 152.36887pt.
-<..//f.png, id=26, 170.43675pt x 163.20975pt>
-File: ..//f.png Graphic file (type png)
-<use ..//f.png>
-Package pdftex.def Info: ..//f.png  used on input line 105.
+<f.png, id=26, 170.43675pt x 163.20975pt>
+File: f.png Graphic file (type png)
+<use f.png>
+Package pdftex.def Info: f.png  used on input line 105.
 (pdftex.def)             Requested size: 170.43631pt x 163.20934pt.
-<..//g.png, id=27, 144.54pt x 112.92188pt>
-File: ..//g.png Graphic file (type png)
-<use ..//g.png>
-Package pdftex.def Info: ..//g.png  used on input line 111.
+<g.png, id=27, 144.54pt x 112.92188pt>
+File: g.png Graphic file (type png)
+<use g.png>
+Package pdftex.def Info: g.png  used on input line 111.
 (pdftex.def)             Requested size: 144.53963pt x 112.92159pt.
- [3 <..//d.png> <..//e.png> <..//f.png>] [4 <..//g.png>] (3100hw1.aux) ) 
+ [3 <./d.png> <./e.png> <./f.png>] [4 <./g.png>] (3100hw1.aux) ) 
 Here is how much of TeX's memory you used:
- 2214 strings out of 478699
- 36449 string characters out of 2846961
- 344428 words of memory out of 3000000
- 20297 multiletter control sequences out of 15000+600000
+ 2206 strings out of 478699
+ 36156 string characters out of 2846961
+ 344426 words of memory out of 3000000
+ 20290 multiletter control sequences out of 15000+600000
  408683 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,6n,62p,243b,331s stack positions out of 5000i,500n,10000p,200000b,80000s

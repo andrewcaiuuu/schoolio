@@ -4,7 +4,8 @@
 \usepackage[empty]{fullpage}
 \usepackage{graphicx}
 \usepackage{float}
-\graphicspath{ {../} }
+\usepackage{amsfonts} 
+\graphicspath{ {/} }
 
 \begin{document}
 
@@ -16,7 +17,7 @@
   to get an A+. 
 
   \item $E = \{n\}$ is the event that you get an A+ by the $n$th try.
-  \item $E = \infty$ is the event that you continue taking 
+  \item $E = \{ (\bigcap\limits_{n=1}^{\infty}\mathbb{N})\textsuperscript{c} \}$ is the event that you continue taking 
   ECE 3100 forever. 
 \end{enumerate}
 \section{Constructing a sample space}
@@ -59,8 +60,8 @@
     \cup (A\textsuperscript{c} \cup B)\textsuperscript{c} = 
     \newline ((A \cup B\textsuperscript{c}) \cap (A \cup B))\textsuperscript{c} 
     \cup (A\textsuperscript{c} \cup B)\textsuperscript{c} =
-    (A \cap (B\textsuperscript{c} \cup B))\textsuperscript{c} \cup (A\textsuperscript{C} \cup B)\textsuperscript{c}
-    = (A \cap \Omega)\textsuperscript{c} \cup (A\textsuperscript{c}\cup B)\textsuperscript{c} =
+    (A \cup (B\textsuperscript{c} \cap B))\textsuperscript{c} \cup (A\textsuperscript{C} \cup B)\textsuperscript{c}
+    = (A \cup \emptyset)\textsuperscript{c} \cup (A\textsuperscript{c}\cup B)\textsuperscript{c} =
     \newline A\textsuperscript{c} \cup (A\textsuperscript{c} \cup B)\textsuperscript{c} = 
     (A \cap (A\textsuperscript{c}\cup B))\textsuperscript{c} =
     ((A \cap A\textsuperscript{c}) \cup (A \cap B))\textsuperscript{c} = 
@@ -103,10 +104,9 @@
   \item \begin{figure}[H]
     \includegraphics{f}
     \end{figure}
-    $(A\cup B\cup C) \cap (A\cap B\cap C)\textsuperscript{c} 
-    \cap (A\cap B)\textsuperscript{c} \cap 
-    (A\cap C)\textsuperscript{c} \cap 
-    (B\cap C)\textsuperscript{c}$
+    $(A \cap B\textsuperscript{c} \cap C\textsuperscript{c}) \cap 
+    (B \cap A\textsuperscript{c} \cap C\textsuperscript{c}) \cap
+    (C \cap A\textsuperscript{c} \cap B\textsuperscript{c})$
   \item \begin{figure}[H]
     \includegraphics{g}
     \end{figure}
