@@ -5,6 +5,7 @@
 \usepackage{graphicx}
 \usepackage{float}
 \usepackage{amsfonts} 
+\usepackage{amsmath}
 \graphicspath{ {../} }
 
 \begin{document}
@@ -20,4 +21,70 @@
 \end{enumerate}
 
 \section{Probability calculation:}
+\begin{enumerate}[label=\alph*.]
+  \item \begin{math}
+    \Omega = \{1,2,3,4,5,6\} \newline
+    Pr(\textrm{outcome is less than four}) = Pr(1) + Pr(2) +
+    Pr(3), \newline
+    Pr(odds) + Pr(evens) = 1 \newline
+     2*Pr(odds) = Pr(evens) \newline
+     Pr(odds) = \frac{1}{3} \newline
+     Pr(evens) = \frac{2}{3} \newline
+     Pr(\textrm{outcome is less than four}) = \frac{1}{9} + \frac{2}{9} + \frac{1}{9} = 
+     \frac{4}{9}
+  \end{math}
+  \item \begin{math}
+    Pr(\textrm{odds}) = \frac{1}{3}
+  \end{math}
+  ,work shown above.
+\end{enumerate}
+\section{Manhattan revisited:}
+\begin{math}
+  A = \{(x,y)\bigg||x| + |y| \leq a, \; 0 \leq x \leq 1, \; 0 \leq y \leq 1\, \; 0 \leq a \leq 2\}
+  \newline Pr(A) = \frac{1}{2}a\textsuperscript{2} \; \textrm{for } 0 \leq a \leq 1 \; \textrm{and }
+  a-\frac{1}{2}(2-a)\textsuperscript{2} \; \textrm{for } 1 < a \leq 2
+\end{math}
+\section{Partition of a sample space:}
+\begin{enumerate}[label=\alph*.]
+  \item \[     \Omega = \bigcup_{i=1}^nS_i \]
+  \begin{displaymath}
+    Pr(A) =  \sum_{i=1}^n Pr(A \cap S_i) = 
+    Pr\bigcup_{i=1}^n(A \cap S_i)=
+    Pr((A\cap S_1) \cup (A\cap S_2) \cup (A \cap S_3) ...) = 
+  \end{displaymath}
+  \begin{displaymath}
+    Pr(A\cap (S_1 \cup S_2 \cup S_3 ...)) = Pr(A\cap \Omega) = Pr(A)
+  \end{displaymath}
+  \item Make a disjoint partition: \begin{math}
+    \Omega = B \cup C \cup (A \cap B' \cap C') - A \cap B \; \textrm{(subtract off double counted elements)}
+  \end{math}
+  \newline From this partition, apply result from part a.
+\end{enumerate}
+\section{Drawing names from a hat:}
+\begin{enumerate}[label=\alph*.]
+  \item There is only one way that every student draws their own name because the order matters.
+  Since the order matters, there are n! total ways to draw. There are n possibilities
+  the first time and for each n possibility there are n-1 possibilities for the next draw
+  and so on. As a result, the probability is given by $\frac{1}{n!}$
+  \item There is only one way that the first m students will draw their name.
+  For that one way, there are (n-m-1)! ways the remaining students can draw a name.
+  As a result, the probability is given by $\frac{(n-m-1)!}{n!}$
+  \item There are m! ways that everyone among the first m students to draw gets a name of
+  the last m students to draw. For these m! ways, there are (n-m-1)! ways the remaining students can
+  draw a name. As a result, the probability is given by $\frac{(n-m-1)!m!}{n!}$
+  \section{ECE faculty needs more exercise:}
+  \begin{enumerate}[label=\alph*.]
+    \item There are ${16 \choose 6} = 8008$ ways to form rosters.
+    \item  There are ${5 \choose 3}$ ways to choose 2 women,
+    and for each of these ways there are ${11 \choose 4}$ ways to choose 4 men.
+    ${5 \choose 2} * {11 \choose 4} = 10 * 330 = 3300$ ways to have teams with 
+    two women and four men.
+    \item Sum the ways to choose 2 women 4 men, 3 women 3 men, 4 women 2 men, and 5 women 1 man.
+    ${5 \choose 2} * {11 \choose 4} + {5 \choose 3} * {11 \choose 3} + 
+    {5 \choose 4} * {11 \choose 2} + {5 \choose 5} * {11 \choose 1} = 10 * 330 + 
+    10 * 165 + 5 * 55 + 1 * 11 = 5236$ ways to have teams with at least two women.
+    \item i. Probability randomly selected team has exactly two women = $\frac{3300}{8008}$
+    \newline ii. Probability randomly selected team has at least two women = $\frac{5236}{8008}$
+  \end{enumerate}
+\end{enumerate}
 \end{document}
