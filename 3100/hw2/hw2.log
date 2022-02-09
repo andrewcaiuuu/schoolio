@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.21)  8 FEB 2022 13:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.21)  8 FEB 2022 18:53
 entering extended mode
 **c:/Users/caian/Desktop/schoolio/3100/hw2/hw2.tex
 (c:/Users/caian/Desktop/schoolio/3100/hw2/hw2.tex
@@ -114,21 +114,29 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\caian\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-)) [1
+))
+LaTeX Font Info:    Trying to load font information for U+msa on input line 13.
+ (C:\Users\caian\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 13.
+ (C:\Users\caian\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
 
 {C:/Users/caian/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (hw2.aux) ) 
 Here is how much of TeX's memory you used:
- 2085 strings out of 478699
- 34609 string characters out of 2846961
- 332420 words of memory out of 3000000
- 20196 multiletter control sequences out of 15000+600000
- 404335 words of font info for 30 fonts, out of 8000000 for 9000
+ 2130 strings out of 478699
+ 35341 string characters out of 2846961
+ 333420 words of memory out of 3000000
+ 20223 multiletter control sequences out of 15000+600000
+ 408683 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,5n,62p,239b,131s stack positions out of 5000i,500n,10000p,200000b,80000s
-<C:/Users/caian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/caian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on hw2.pdf (1 page, 24431 bytes).
+ 55i,5n,62p,239b,219s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Users/caian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/caian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/caian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/caian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/caian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on hw2.pdf (1 page, 53599 bytes).
 PDF statistics:
- 16 PDF objects out of 1000 (max. 8388607)
+ 31 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
