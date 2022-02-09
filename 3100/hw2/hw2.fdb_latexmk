@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1644409164 "c:/Users/caian/Desktop/schoolio/3100/hw2/hw2.tex" "hw2.pdf" "hw2" 1644409177
-  "C:/Users/caian/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1637559814 9767274 5cb4a17c1a019cc9d9310069be71a770 ""
-  "C:/Users/caian/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1643494086 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+["pdflatex"] 1644432001 "c:/Users/caian/Desktop/schoolio/3100/hw2/hw2.tex" "hw2.pdf" "hw2" 1644432003
+  "C:/Users/caian/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1637524821 9767274 f3633faca79e5ccf8c019552043262f9 ""
+  "C:/Users/caian/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1644431450 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/caian/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/caian/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "C:/Users/caian/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -60,10 +60,10 @@
   "C:/Users/caian/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1634573416 29971 6c47712bf4bc87d15b2ca318615f75a3 ""
   "C:/Users/caian/AppData/Local/Programs/MiKTeX/tex/latex/preprint/fullpage.sty" 1369145273 2867 05b418f78b224ec872f5b11081138605 ""
   "C:/Users/caian/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1625494067 48833 3b7b4cfab1a3d15596bfd3772a77ab65 ""
-  "c:/Users/caian/Desktop/schoolio/3100/hw2/hw2.tex" 1644409176 4061 c52c137ae8a375c0beded1256fa56b8e ""
-  "hw2.aux" 1644409165 726 f6a73c826dd8820e716fe7ae1209f068 "pdflatex"
-  "hw2.tex" 1644409176 4061 c52c137ae8a375c0beded1256fa56b8e ""
+  "c:/Users/caian/Desktop/schoolio/3100/hw2/hw2.tex" 1644431999 4155 b4c39bf6881b7e866d0ca6895ac7e5e8 ""
+  "hw2.aux" 1644432002 726 f6a73c826dd8820e716fe7ae1209f068 "pdflatex"
+  "hw2.tex" 1644431999 4155 b4c39bf6881b7e866d0ca6895ac7e5e8 ""
   (generated)
-  "hw2.log"
   "hw2.aux"
   "hw2.pdf"
+  "hw2.log"
